@@ -1,0 +1,24 @@
+h1 {
+  color: #cd113b;
+  font-size: 200px;
+}
+
+img:hover {
+  background-color: #e8e46e;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: hotpink;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+# heading {
+  color: chartreuse;
+}
